@@ -8,7 +8,7 @@ PandoraJam 2 build 250 was the last release of PandoraJam before they shut down.
 include pandorajam
 ```
 
-## Required puppet modules
+### Required puppet modules
 
 * boxen
 
