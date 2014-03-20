@@ -6,6 +6,7 @@ PandoraJam 2 build 250 was the last release of PandoraJam before they shut down.
 
 ```puppet
 include pandorajam
+```
 
 ## Required puppet modules
 
